@@ -1,0 +1,17 @@
+{
+  "name": "coin-delegation",
+  "version": "0.0.1",
+  "description": "Only deploy the strict minimum of a contract and delegate all the functions to one that does the same job (here erc20)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.3.0"
+  }
+}
